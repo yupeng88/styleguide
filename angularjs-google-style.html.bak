@@ -391,6 +391,5 @@ my.app.MyCtrl = function($http, myService) {
 <address>
     Last modified Feb 07 2013
 </address>
-<!--nihao-->
 </body>
 <html>
